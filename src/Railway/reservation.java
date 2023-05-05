@@ -250,7 +250,7 @@ public class reservation extends javax.swing.JFrame {
                      showSeats.addItem(coach+ "-72");
                          break;
                  default:
-                         
+                         break;
              }
            
              
@@ -539,6 +539,7 @@ public class reservation extends javax.swing.JFrame {
         String s=""+Math.random();
         int k=0;
         String g="";
+        
         for(int i=s.length()-1;i>=0 && k<=10;i--)
         {
             
