@@ -12,12 +12,12 @@ The main objectives of the project is to allow the passenger to view, book and c
 
 ## System Architecture
 <kbd>
- <img src="Attachments/System-Arch.png?raw=true">
+ <img src="Attachments/System-Arch.png?raw=true" width="600" height="700">
 </kbd>
 
 ## Database Design
 <kbd>
- <img src="Attachments/ER-DIAG.png?raw=true">
+ <img src="Attachments/ER-DIAG.png?raw=true" width="600" height="500">
 </kbd>
 
 ## Coach Selection Algorithm
@@ -31,15 +31,15 @@ The main objectives of the project is to allow the passenger to view, book and c
 *	This algorithm continues off in this manner until all seats are completely filled. 
 </br>
 <kbd>
- <img src="Attachments/Algo 1.png?raw=true">
+ <img src="Attachments/Algo 1.png?raw=true" width="700" height="300">
 </kbd>
 </br>
 <kbd>
- <img src="Attachments/Algo 2.png?raw=true">
+ <img src="Attachments/Algo 2.png?raw=true" width="700" height="300">
 </kbd>
 </br>
 <kbd>
- <img src="Attachments/Algo 3.png?raw=true">
+ <img src="Attachments/Algo 3.png?raw=true" width="700" height="300">
 </kbd>
 
 
@@ -49,14 +49,14 @@ The main objectives of the project is to allow the passenger to view, book and c
 Login Page for Customers and Admins. New users can also signup. 
 </br>
 <kbd>
- <img src="Attachments/1.png?raw=true">
+ <img src="Attachments/1.png?raw=true" width="600" height="600">
 </kbd>
 
 ### Admin Page 
 Admins(IRCTC Employees) have the functionality to Add/Edit Train Details and Ticket Validation using PNR
 </br>
 <kbd>
- <img src="Attachments/2.png?raw=true">
+ <img src="Attachments/2.png?raw=true" width="400" height="400">
 </kbd>
 
 
@@ -64,26 +64,26 @@ Admins(IRCTC Employees) have the functionality to Add/Edit Train Details and Tic
 Admin can Add/Edit Train Details.
 </br>
 <kbd>
- <img src="Attachments/addTrain.png?raw=true">
+ <img src="Attachments/addTrain.png?raw=true" width="800" height="400">
 </kbd>
 
 ### Customer Page
 Customers can Book the Tickets and View/Cancel their Bookings.
 </br>
 <kbd>
- <img src="Attachments/4.png?raw=true">
+ <img src="Attachments/4.png?raw=true" width="400" height="400">
 </kbd>
 
 ### Reservation Page
 Customers can book their Tickers by selecting seats of their choice.
 </br>
 <kbd>
- <img src="Attachments/REser.png?raw=true">
+ <img src="Attachments/REser.png?raw=true" width="600" height="550">
 </kbd>
 
 ### View/Cancel Reservation
 Customers can view and cancel their bookings.
 </br>
 <kbd>
- <img src="Attachments/view reser.png?raw=true">
+ <img src="Attachments/view reser.png?raw=true" width="800" height="400">
 </kbd>
