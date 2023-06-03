@@ -46,14 +46,14 @@ The main objectives of the project is to allow the passenger to view, book and c
 ## Screenshots
 
 ### Login Page
-Login Page for Customers and Admins. New Users can also Signup. 
+Login Page for Customers and Admins. New users can also signup. 
 </br>
 <kbd>
  <img src="Attachments/1.png?raw=true">
 </kbd>
 
 ### Admin Page 
-The admins(IRCTC Employees) have the functionality to Add/Edit Train Details and Ticket Validation using PNR
+Admins(IRCTC Employees) have the functionality to Add/Edit Train Details and Ticket Validation using PNR
 </br>
 <kbd>
  <img src="Attachments/2.png?raw=true">
