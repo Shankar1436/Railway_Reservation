@@ -49,14 +49,14 @@ The main objectives of the project is to allow the passenger to view, book and c
 Login Page for Customers and Admins. New users can also signup. 
 </br>
 <kbd>
- <img src="Attachments/1.png?raw=true" width="600" height="600">
+ <img src="Attachments/1.png?raw=true" width="800" height="600">
 </kbd>
 
 ### Admin Page 
 Admins(IRCTC Employees) have the functionality to Add/Edit Train Details and Ticket Validation using PNR
 </br>
 <kbd>
- <img src="Attachments/2.png?raw=true" width="400" height="400">
+ <img src="Attachments/2.png?raw=true" width="500" height="400">
 </kbd>
 
 
@@ -64,14 +64,14 @@ Admins(IRCTC Employees) have the functionality to Add/Edit Train Details and Tic
 Admin can Add/Edit Train Details.
 </br>
 <kbd>
- <img src="Attachments/addTrain.png?raw=true" width="800" height="400">
+ <img src="Attachments/addTrain.png?raw=true" width="900" height="400">
 </kbd>
 
 ### Customer Page
 Customers can Book the Tickets and View/Cancel their Bookings.
 </br>
 <kbd>
- <img src="Attachments/4.png?raw=true" width="400" height="400">
+ <img src="Attachments/4.png?raw=true" width="500" height="400">
 </kbd>
 
 ### Reservation Page
@@ -85,5 +85,5 @@ Customers can book their Tickers by selecting seats of their choice.
 Customers can view and cancel their bookings.
 </br>
 <kbd>
- <img src="Attachments/view reser.png?raw=true" width="800" height="400">
+ <img src="Attachments/view reser.png?raw=true" width="900" height="400">
 </kbd>
